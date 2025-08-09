@@ -799,7 +799,7 @@
                             <a href="#"><i class="fas fa-tshirt"></i> Fashioned Clothing</a>
                             <a href="#"><i class="fas fa-headphones"></i> smart Gadgets</a>
                             <a href="#"><i class="fas fa-shoe-prints"></i> New Footwear</a>
-                            <a href="#"><i class="fas fa-watch"></i>All Accessories</a>
+                            <a href="#"><i class="fas fa-watch"></i>Good Accessories</a>
                         </div>
                     </li>
                     <li><a href="#"><i class="fas fa-fire"></i> Trending</a></li>
