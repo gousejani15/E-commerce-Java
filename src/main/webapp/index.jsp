@@ -794,12 +794,12 @@
                     <li class="dropdown">
                         <a href="#"><i class="fas fa-th-large"></i> Categories <i class="fas fa-chevron-down"></i></a>
                         <div class="dropdown-content">
-                            <a href="#"><i class="fas fa-mobile-alt"></i> Smartphones</a>
-                            <a href="#"><i class="fas fa-laptop"></i> Laptops</a>
-                            <a href="#"><i class="fas fa-tshirt"></i> Clothing</a>
-                            <a href="#"><i class="fas fa-headphones"></i> Gadgets</a>
-                            <a href="#"><i class="fas fa-shoe-prints"></i> Footwear</a>
-                            <a href="#"><i class="fas fa-watch"></i> Accessories</a>
+                            <a href="#"><i class="fas fa-mobile-alt"></i> Normal Phone</a>
+                            <a href="#"><i class="fas fa-laptop"></i> Touch Laptops</a>
+                            <a href="#"><i class="fas fa-tshirt"></i> Fashioned Clothing</a>
+                            <a href="#"><i class="fas fa-headphones"></i> smart Gadgets</a>
+                            <a href="#"><i class="fas fa-shoe-prints"></i> New Footwear</a>
+                            <a href="#"><i class="fas fa-watch"></i>All Accessories</a>
                         </div>
                     </li>
                     <li><a href="#"><i class="fas fa-fire"></i> Trending</a></li>
